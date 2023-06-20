@@ -36,7 +36,7 @@
                     <minimizeJar>false</minimizeJar>
                     <createSourcesJar>true</createSourcesJar>
                     <shadeSourcesContent>true</shadeSourcesContent>
-                    <createDependencyReducedPom>false</createDependencyReducedPom>
+                    <createDependencyReducedPom>true</createDependencyReducedPom>
                     <artifactSet>
                         <includes>
                             <include>io.netty:netty-codec-haproxy</include>
